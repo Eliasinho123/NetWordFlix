@@ -1,0 +1,58 @@
+Body {
+    background: #000000;
+    Color: rgb(255, 255, 255);
+    font-family: "Oswald", sans-serif;
+    font-size: large;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding-inline-start: 5px;
+    padding: 15;
+    font-size: x-large;
+    color: rgb(56, 206, 173);
+}
+
+.chamada {
+   background-color: rgb(83, 9, 9);
+   padding-bottom: 80px;
+   padding-top: 20px;
+   display: flex;
+   justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 20px;
+
+}
+img {
+
+height: 320px;
+
+}
+
+
+.categoria {
+
+padding-left: 0px;
+padding-right: 20px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.categoria-videos img {
+opacity: 0.5;
+height: 320px;
+
+}
+
+.categoria-videos img:hover {
+
+    opacity: 1.0;
+    border: yellow;
+}
+
+.categoria h2 {
+
+    color:rgb(56, 206, 173);
+}
